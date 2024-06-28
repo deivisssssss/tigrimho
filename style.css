@@ -1,0 +1,52 @@
+body{
+   background-color: rgb(252, 148, 38);
+  
+ }
+ h1{
+color: aliceblue;
+font-size: 27px;
+
+ }
+
+  h2{ 
+   color: aliceblue;
+   font-size: 27;
+   text-align: center;}
+   
+   
+h6{
+ caret-color: bisque;
+font-size: 37px;
+text-align: center;
+font: optional;
+}
+h3{
+color: aliceblue;
+font-size: 27px;
+text-align: center;
+
+}
+h4{
+color: aliceblue;
+font size: 27px;
+
+
+}
+
+h5{
+color: aliceblue;
+font-size: 27px;
+
+}
+
+h6{
+   color: aliceblue;
+   font-size: 27px;
+   
+}
+
+h7{
+color: aliceblue;
+font-size: 27px;
+
+}
